@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Emirhan Ülgen
+- Certification: Meta Android Developer Professional Certificate 
 
 ## Instructions
 Please replace the placeholders with your details:
